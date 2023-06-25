@@ -5,7 +5,7 @@
   <!-- <p align="center">
     <img src="your_logo.png" alt="Saidia Logo" width="80px" height="80px">
   </p> -->
-  <h1 align="center" style='yellow'>:two_women_holding_hands: <B>Saidia-Help Application<B></h1>
+  <h1 align="center" style='yellow'>:two_women_holding_hands: <B>Saidia-Help Application</B></h1>
   <h3 align="center">Your Lifeline in times of need</h3>
 
   <!-- TABLE OF CONTENTS -->
@@ -22,7 +22,7 @@
       <li><a href="#accomplishments">➤ Accomplishments</a></li>
       <li><a href="#learnings">➤ Lessons Learned</a></li>
       <li><a href="#whats-next">➤ What's Next</a></li>
-      <li><a href="#license">➤ License</a></li>
+      <!-- <li><a href="#license">➤ License</a></li> -->
       <li><a href="#contact">➤ Contact</a></li>
     </ol>
   </details>
@@ -80,7 +80,7 @@
   <!-- CHALLENGES -->
   <h2 id="challenges">:triangular_flag_on_post: Challenges</h2>
 
-  <p>During the development of Saidia-Help, we encountered several challenges:</p>
+  <p>During the development of Saidia-Help, I encountered several challenges:</p>
 
   <ul>
     <li>Implementing seamless offline functionality using SQLite</li>
@@ -93,7 +93,7 @@
   <!-- ACCOMPLISHMENTS -->
   <h2 id="accomplishments">:trophy: Accomplishments</h2>
 
-  <p>We are proud of the following achievements with the Saidia-Help App:</p>
+  <p>I are proud of the following achievements with the Saidia-Help App:</p>
 
   <ul>
     <li>Creating an easy-to-use application that provides quick access to emergency contacts</li>
@@ -106,7 +106,7 @@
   <!-- LESSONS LEARNED -->
   <h2 id="learnings">:books: Lessons Learned</h2>
 
-  <p>Throughout the development process, we learned valuable lessons, including:</p>
+  <p>Throughout the development process, I learned valuable lessons, including:</p>
 
   <ul>
     <li>Enhancing offline capabilities using SQLite and handling edge cases</li>
@@ -128,7 +128,7 @@
     <li>Expanding availability to other regions to address the global need for accessible emergency support</li>
   </ul>
 
-  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  <!-- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
   <!-- LICENSE -->
   <h2 id="license">:scroll: License</h2>
@@ -136,7 +136,7 @@
   <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
   <!-- Add the license badge -->
-  <a href="https://opensource.org/licenses/MIT" class="badge license-badge">MIT License</a>
+  <a href="https://opensource.org/licenses/MIT" class="badge license-badge">MIT License</a> -->
 
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
