@@ -55,7 +55,7 @@
   <p>Follow these steps to install and run the Saidia-Help App:</p>
 
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/your_username/saidia-help.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/CherutoSharleen/MLH-TechTogether-Hackathon.git</code></li>
     <li>Open the project in Flutter IDE</li>
     <li>Install dependencies: <code>flutter pub get</code></li>
     <li>Connect your device/emulator</li>
