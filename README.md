@@ -35,7 +35,7 @@
   <p align="justify"> 
     The Saidia-Help Application, inspired by the need for immediate assistance during emergency situations and to combat gender-based violence, is designed to provide users with easy access to essential emergency contacts and support services. The app aims to empower victims by enabling them to quickly call for help, send pre-drafted messages containing their name and location, and locate nearby hospitals and police stations via geolocation mapping. Saidia-Help strives to make a difference in emergency response and civic education, ultimately contributing to safer communities.
  
-    [This is the Figma Template:](https://www.figma.com/proto/6ZvRJC4n0dhnMkwAN8nEnV/Saidia-Helper-App?type=design&node-id=2-264&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A264&mode=design)
+    
   </p>
   
 
@@ -156,5 +156,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharleencheruto/)
 
   Acknowledgements: This project was developed as part of the MLH Tech Together Hackathon for Marginalized Genders. This is the [DevPost Submission](https://devpost.com/software/saidia-help-application?ref_content=my-projects-tab&ref_feature=my_projects)
+
+  [This is the Figma Template:](https://www.figma.com/proto/6ZvRJC4n0dhnMkwAN8nEnV/Saidia-Helper-App?type=design&node-id=2-264&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A264&mode=design)
 </body>
 </html>
