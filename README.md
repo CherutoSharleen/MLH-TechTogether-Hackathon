@@ -20,7 +20,7 @@
       <li><a href="#usage">➤ Usage</a></li>
       <li><a href="#challenges">➤ Challenges</a></li>
       <li><a href="#accomplishments">➤ Accomplishments</a></li>
-      <li><a href="#learnings">➤ Lessons Learned</a></li>
+      <li><a href="#learnings">➤ Lessons Learnt</a></li>
       <li><a href="#whats-next">➤ What's Next</a></li>
       <!-- <li><a href="#license">➤ License</a></li> -->
       <li><a href="#contact">➤ Contact</a></li>
@@ -103,10 +103,10 @@
 
 
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-  <!-- LESSONS LEARNED -->
-  <h2 id="learnings">:books: Lessons Learned</h2>
+  <!-- LESSONS LEARNT -->
+  <h2 id="learnings">:books: Lessons Learnt</h2>
 
-  <p>Throughout the development process, I learned valuable lessons, including:</p>
+  <p>Throughout the development process, I learnt valuable lessons, including:</p>
 
   <ul>
     <li>Enhancing offline capabilities using SQLite and handling edge cases</li>
@@ -131,14 +131,14 @@
   <!-- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
   <!-- LICENSE -->
-  <h2 id="license">:scroll: License</h2>
+  <!-- <h2 id="license">:scroll: License</h2>
 
   <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
   <!-- Add the license badge -->
-  <a href="https://opensource.org/licenses/MIT" class="badge license-badge">MIT License</a> -->
+  <!-- <a href="https://opensource.org/licenses/MIT" class="badge license-badge">MIT License</a> --> -->
 
-  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) -->
 
   <!-- CONTACT -->
 
